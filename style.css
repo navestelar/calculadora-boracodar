@@ -35,7 +35,7 @@ body * {
     inset 0px -4px 5px rgba(0, 0, 0, 0.22);
 }
 #calculo {
-  margin: 32px auto auto;
+  margin: 32px 32px auto;
   text-align: right;
 }
 #calculo p {
@@ -55,7 +55,7 @@ body * {
 #calculo .igualzinho {
   color: rgba(107, 107, 107, 1);
   text-align: left;
-  width: 242px;
+  width: 228px;
 }
 #teclado {
   margin: 32px auto auto;
